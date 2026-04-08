@@ -103,3 +103,4 @@ C:\Users\dihas\Downloads\Net\HelloApp.Tests\obj\Debug\net8.0\refint\HelloApp.Tes
 C:\Users\dihas\Downloads\Net\HelloApp.Tests\obj\Debug\net8.0\HelloApp.Tests.pdb
 C:\Users\dihas\Downloads\Net\HelloApp.Tests\obj\Debug\net8.0\HelloApp.Tests.genruntimeconfig.cache
 C:\Users\dihas\Downloads\Net\HelloApp.Tests\obj\Debug\net8.0\ref\HelloApp.Tests.dll
+C:\Users\dihas\Downloads\Net\HelloApp.Tests\obj\Debug\net8.0\HelloApp.Tests.sourcelink.json
